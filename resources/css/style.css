@@ -52,3 +52,12 @@ nav, a{
   background-size: cover;
   width: 1830px;
 }
+
+#footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  background-size: cover;
+  width: 1830px;
+}
